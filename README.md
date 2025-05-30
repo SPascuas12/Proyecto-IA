@@ -1,1 +1,2 @@
-# Proyecto-IA
+# Evaluación Inteligente del Riesgo Cardiaco con DT y NB
+Este sistema predictivo se basa en datos del CDC (Centers for Disease Control and Prevention), extraídos del programa BRFSS, la mayor encuesta de salud en Estados Unidos. Utilizando técnicas de aprendizaje automático como árboles de decisión y Naive Bayes, esta herramienta analiza múltiples factores de riesgo como hipertensión, colesterol, diabetes, obesidad, actividad física y consumo de alcohol, para estimar la probabilidad de que una persona haya desarrollado o desarrolle una enfermedad cardíaca.
